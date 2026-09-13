@@ -59,3 +59,5 @@ Always test only one behavior per one test, using multiple `expect` calls is fin
 Never mock your own app, mock third-party APIs, gateways, and such.
 
 Follow official Playwright [documentation](https://playwright.dev/docs/intro) while generating, refactoring, or reviewing code.
+
+If you are unsure of anything, ask for clarification.
